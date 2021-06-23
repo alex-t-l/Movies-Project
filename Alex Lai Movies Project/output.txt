@@ -1,0 +1,455 @@
+Mon Mar 15 15:33:04 PDT 2021
+Linux csslab1.uwb.edu 3.10.0-1160.11.1.el7.x86_64 #1 SMP Fri Dec 18 16:34:56 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+uid=995453(alanlai) gid=2120995453(alanlai) groups=2120995453(alanlai),605559(lab-access)
+=====================================================
+1. Compiles without warnings with -Wall -Wextra flags
+=====================================================
+=====================================================
+2. Runs and produces correct output
+=====================================================
+Start testAlLMovies
+End test
+Start testCustomers
+End testCustomers
+Start testHashTable
+End testHashTable
+=====================================
+Start testStoreFinal
+Invalid Movie Type found: Z
+Invalid Movie Type found: Z
+Comedy Shelf: 
+Genre/Title: Comedy, Annie Hall, Director: Woody Allen, Released: 1977 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Fargo, Director: Joel Coen, Released: 1996 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, National Lampoon's Animal House, Director: John Landis, Released: 1978 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Pirates of the Caribbean, Director: Different Years, Released: 2000 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Pirates of the Caribbean, Director: Gore Verbinski, Released: 2003 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Sleepless in Seattle, Director: Nora Ephron, Released: 1993 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, When Harry Met Sally, Director: Rob Reiner, Released: 1989 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, You've Got Mail, Director: Nora Ephron, Released: 1998 , Stock: 10 Currently being borrowed: 0
+Drama Shelf: 
+Genre/Title: Drama, Good Morning Vietnam, Director: Barry Levinson, Released: 1988, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Same Director Good Morning Vietnam, Director: Barry Levinson, Released: 1988, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Unforgiven, Director: Clint Eastwood, Released: 1992, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Good Will Hunting, Director: Gus Van Sant, Released: 2000, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Silence of the Lambs, Director: Jonathan Demme, Released: 1991, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Dogfight, Director: Nancy Savoca, Released: 1991, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, King of Hearts, Director: Phillippe De Broca, Released: 1967, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Schindler's List, Director: Steven Spielberg, Released: 1993, Stock: 10 Currently being borrowed: 0
+Classic Shelf: 
+Genre/Title: Classic, Holiday, Director: George Cukor, Released: 1938 Major Actor: Cary Grant, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Holiday, Director: George Cukor, Released: 1938 Major Actor: Katherine Hepburn, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Gone With the Wind, Director: Victor Fleming, Released: 1939 Major Actor: Clark Gable, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Gone With the Wind, Director: Victor Fleming, Released: 1939 Major Actor: Vivien Leigh, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Wizard of Oz, Director: Victor Fleming, Released: 1939 Major Actor: Judy Garland, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Philadelphia Story, Director: George Cukor, Released: 1940 Major Actor: Cary Grant, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Philadelphia Story, Director: George Cukor, Released: 1940 Major Actor: Katherine Hepburn, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Maltese Falcon, Director: John Huston, Released: 1941 Major Actor: Humphrey Bogart, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Casablanca, Director: Michael Curtiz, Released: 1942 Major Actor: Humphrey Bogart, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Casablanca, Director: Michael Curtiz, Released: 1942 Major Actor: Ingrid Bergman, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, It's a Wonderful Life, Director: Frank Capra, Released: 1946 Major Actor: Donna Reed, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, It's a Wonderful Life, Director: Frank Capra, Released: 1946 Major Actor: James Steward, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, A Clockwork Orange, Director: Stanley Kubrick, Released: 1971 Major Actor: Malcolm McDowell, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Harold and Maude, Director: Hal Ashby, Released: 1971 Major Actor: Ruth Gordon, Stock: 10  Currently being borrowed: 0
+
+History of transactions for Mouse Minnie #1000:
+History is empty
+
+History of transactions for Frog Freddie #5000:
+History is empty
+
+History of transactions for Wacky Wally #8000:
+History is empty
+
+Invalid genre: Z
+Invalid command:  X
+Invalid command:  Z
+Customer not found : 1234
+Comedy Movie not found: Bogus Title 2001
+Invalid media type: Z
+Out of stock, can't borrow Harold and Maude
+Out of stock, can't borrow Harold and Maude
+Out of stock, can't borrow Harold and Maude
+Drama Movie not found: Steven Spielberg Bogus Title
+Comedy Shelf: 
+Genre/Title: Comedy, Annie Hall, Director: Woody Allen, Released: 1977 , Stock: 9 Currently being borrowed: 1
+Genre/Title: Comedy, Fargo, Director: Joel Coen, Released: 1996 , Stock: 9 Currently being borrowed: 1
+Genre/Title: Comedy, National Lampoon's Animal House, Director: John Landis, Released: 1978 , Stock: 9 Currently being borrowed: 1
+Genre/Title: Comedy, Pirates of the Caribbean, Director: Different Years, Released: 2000 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Pirates of the Caribbean, Director: Gore Verbinski, Released: 2003 , Stock: 10 Currently being borrowed: 0
+Genre/Title: Comedy, Sleepless in Seattle, Director: Nora Ephron, Released: 1993 , Stock: 9 Currently being borrowed: 1
+Genre/Title: Comedy, When Harry Met Sally, Director: Rob Reiner, Released: 1989 , Stock: 9 Currently being borrowed: 1
+Genre/Title: Comedy, You've Got Mail, Director: Nora Ephron, Released: 1998 , Stock: 9 Currently being borrowed: 1
+Drama Shelf: 
+Genre/Title: Drama, Good Morning Vietnam, Director: Barry Levinson, Released: 1988, Stock: 9 Currently being borrowed: 1
+Genre/Title: Drama, Same Director Good Morning Vietnam, Director: Barry Levinson, Released: 1988, Stock: 10 Currently being borrowed: 0
+Genre/Title: Drama, Unforgiven, Director: Clint Eastwood, Released: 1992, Stock: 9 Currently being borrowed: 1
+Genre/Title: Drama, Good Will Hunting, Director: Gus Van Sant, Released: 2000, Stock: 9 Currently being borrowed: 1
+Genre/Title: Drama, Silence of the Lambs, Director: Jonathan Demme, Released: 1991, Stock: 9 Currently being borrowed: 1
+Genre/Title: Drama, Dogfight, Director: Nancy Savoca, Released: 1991, Stock: 8 Currently being borrowed: 2
+Genre/Title: Drama, King of Hearts, Director: Phillippe De Broca, Released: 1967, Stock: 9 Currently being borrowed: 1
+Genre/Title: Drama, Schindler's List, Director: Steven Spielberg, Released: 1993, Stock: 9 Currently being borrowed: 1
+Classic Shelf: 
+Genre/Title: Classic, Holiday, Director: George Cukor, Released: 1938 Major Actor: Cary Grant, Stock: 9  Currently being borrowed: 1
+Genre/Title: Classic, Holiday, Director: George Cukor, Released: 1938 Major Actor: Katherine Hepburn, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Gone With the Wind, Director: Victor Fleming, Released: 1939 Major Actor: Clark Gable, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Gone With the Wind, Director: Victor Fleming, Released: 1939 Major Actor: Vivien Leigh, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Wizard of Oz, Director: Victor Fleming, Released: 1939 Major Actor: Judy Garland, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, The Philadelphia Story, Director: George Cukor, Released: 1940 Major Actor: Cary Grant, Stock: 9  Currently being borrowed: 1
+Genre/Title: Classic, The Philadelphia Story, Director: George Cukor, Released: 1940 Major Actor: Katherine Hepburn, Stock: 9  Currently being borrowed: 1
+Genre/Title: Classic, The Maltese Falcon, Director: John Huston, Released: 1941 Major Actor: Humphrey Bogart, Stock: 9  Currently being borrowed: 1
+Genre/Title: Classic, Casablanca, Director: Michael Curtiz, Released: 1942 Major Actor: Humphrey Bogart, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, Casablanca, Director: Michael Curtiz, Released: 1942 Major Actor: Ingrid Bergman, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, It's a Wonderful Life, Director: Frank Capra, Released: 1946 Major Actor: Donna Reed, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, It's a Wonderful Life, Director: Frank Capra, Released: 1946 Major Actor: James Steward, Stock: 10  Currently being borrowed: 0
+Genre/Title: Classic, A Clockwork Orange, Director: Stanley Kubrick, Released: 1971 Major Actor: Malcolm McDowell, Stock: 9  Currently being borrowed: 1
+Genre/Title: Classic, Harold and Maude, Director: Hal Ashby, Released: 1971 Major Actor: Ruth Gordon, Stock: 0  Currently being borrowed: 10
+
+History of transactions for Mouse Minnie #1000:
+Mouse Minnie borrowed: Good Morning Vietnam by Barry Levinson, Drama
+Mouse Minnie borrowed: The Philadelphia Story by George Cukor, Classic
+Mouse Minnie borrowed: Good Will Hunting by Gus Van Sant, Drama
+Mouse Minnie borrowed: The Philadelphia Story by George Cukor, Classic
+Mouse Minnie borrowed: Harold and Maude by Hal Ashby, Classic
+
+History of transactions for Mouse Mickey #1111:
+Mouse Mickey borrowed: A Clockwork Orange by Stanley Kubrick, Classic
+Mouse Mickey borrowed: Harold and Maude by Hal Ashby, Classic
+Mouse Mickey borrowed: The Maltese Falcon by John Huston, Classic
+Mouse Mickey borrowed: Holiday by George Cukor, Classic
+
+History of transactions for Frog Freddie #5000:
+Frog Freddie borrowed: Harold and Maude by Hal Ashby, Classic
+Frog Freddie returned: Harold and Maude by Hal Ashby, Classic
+Frog Freddie borrowed: Harold and Maude by Hal Ashby, Classic
+Frog Freddie returned: Harold and Maude by Hal Ashby, Classic
+Frog Freddie borrowed: Harold and Maude by Hal Ashby, Classic
+Frog Freddie returned: Harold and Maude by Hal Ashby, Classic
+Frog Freddie borrowed: Harold and Maude by Hal Ashby, Classic
+
+History of transactions for Wacky Wally #8000:
+Wacky Wally borrowed: You've Got Mail by Nora Ephron, Comedy
+Wacky Wally returned: You've Got Mail by Nora Ephron, Comedy
+Wacky Wally borrowed: Harold and Maude by Hal Ashby, Classic
+Wacky Wally borrowed: Harold and Maude by Hal Ashby, Classic
+Wacky Wally borrowed: National Lampoon's Animal House by John Landis, Comedy
+
+History of transactions for Pig Porky #8888:
+Pig Porky borrowed: Annie Hall by Woody Allen, Comedy
+Pig Porky borrowed: When Harry Met Sally by Rob Reiner, Comedy
+Pig Porky borrowed: Silence of the Lambs by Jonathan Demme, Drama
+Pig Porky borrowed: Dogfight by Nancy Savoca, Drama
+Pig Porky borrowed: Harold and Maude by Hal Ashby, Classic
+
+End testStoreFinal
+=====================================
+Start pisanTest
+End pisanTest
+Running program.
+=====================================================
+3. clang-tidy warnings are fixed
+=====================================================
+15123 warnings generated.
+30570 warnings generated.
+46986 warnings generated.
+63907 warnings generated.
+82245 warnings generated.
+93437 warnings generated.
+Suppressed 93437 warnings (93437 in non-user code).
+Use -header-filter=.* to display errors from all non-system headers. Use -system-headers to display errors from system headers as well.
+=====================================================
+4. clang-format does not find any formatting issues
+=====================================================
+Running clang-format on ./Customer.cpp
+Running clang-format on ./Inventory.cpp
+Running clang-format on ./main.cpp
+Running clang-format on ./Store.cpp
+Running clang-format on ./store_test.cpp
+Running clang-format on ./Transaction.cpp
+=====================================================
+5. No memory leaks using g++
+=====================================================
+=====================================================
+6. No memory leaks using valgrind, look for "definitely lost" 
+=====================================================
+==6068== Memcheck, a memory error detector
+==6068== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==6068== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==6068== Command: ./a.out
+==6068== Parent PID: 5475
+==6068== 
+==6068== 
+==6068== HEAP SUMMARY:
+==6068==     in use at exit: 13,962 bytes in 163 blocks
+==6068==   total heap usage: 862 allocs, 699 frees, 153,472 bytes allocated
+==6068== 
+==6068== LEAK SUMMARY:
+==6068==    definitely lost: 1,704 bytes in 15 blocks
+==6068==    indirectly lost: 12,258 bytes in 148 blocks
+==6068==      possibly lost: 0 bytes in 0 blocks
+==6068==    still reachable: 0 bytes in 0 blocks
+==6068==         suppressed: 0 bytes in 0 blocks
+==6068== Rerun with --leak-check=full to see details of leaked memory
+==6068== 
+==6068== For lists of detected and suppressed errors, rerun with: -s
+==6068== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=====================================================
+7. Tests have full code coverage
+=====================================================
+File '/home/NETID/alanlai/AlexMovies/Customer.cpp':
+Name                                                Regions    Miss   Cover     Lines    Miss   Cover
+-----------------------------------------------------------------------------------------------------
+Customer::Customer(std::string, std::string, int)         1       0 100.00%         5       0 100.00%
+Customer::addToHistory(Transaction*)                      1       0 100.00%         1       0 100.00%
+Customer::outputHistory()                                 5       0 100.00%        11       0 100.00%
+Customer::getFirstName() const                            1       0 100.00%         1       0 100.00%
+Customer::getLastName() const                             1       0 100.00%         1       0 100.00%
+Customer::getCustomerID() const                           1       0 100.00%         1       0 100.00%
+Customer::borrowMovie(char, int)                          1       0 100.00%         3       0 100.00%
+Customer::returnMovie(char, int)                          8       0 100.00%         9       0 100.00%
+Customer::isCurrentlyBorrowing(char, int)                 1       0 100.00%         4       0 100.00%
+-----------------------------------------------------------------------------------------------------
+TOTAL                                                    20       0 100.00%        36       0 100.00%
+
+File '/home/NETID/alanlai/AlexMovies/Inventory.cpp':
+Name                                                                                                                   Regions    Miss   Cover     Lines    Miss   Cover
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Inventory::addComedy(int, std::string const&, std::string const&, int)                                                       5       1  80.00%        13       6  53.85%
+Inventory::addDrama(int, std::string const&, std::string const&, int)                                                        5       1  80.00%        13       6  53.85%
+Inventory::addClassic(int, std::string const&, std::string const&, std::string const&, std::string const&, int, int)         5       1  80.00%        14       6  57.14%
+Inventory::borrowMovie(std::string const&, int)                                                                             19       3  84.21%        37      11  70.27%
+Inventory::returnMovie(std::string const&, int)                                                                             10       2  80.00%        17       5  70.59%
+Inventory::indexOfComedy(std::string const&, int)                                                                            9       0 100.00%         9       0 100.00%
+Inventory::indexOfDrama(std::string const&, std::string const&)                                                              9       0 100.00%         9       0 100.00%
+Inventory::indexOfClassic(int const&, int const&, std::string const&, std::string const&)                                   13       1  92.31%        11       0 100.00%
+Inventory::getClassicMovie(int const&)                                                                                       6       1  83.33%         7       3  57.14%
+Inventory::getComedyMovie(int const&)                                                                                        6       1  83.33%         7       3  57.14%
+Inventory::getDramaMovie(int const&)                                                                                         6       1  83.33%         7       3  57.14%
+Inventory::sortComedy(Comedy*, Comedy*)                                                                                      1       0 100.00%         1       0 100.00%
+Inventory::sortDrama(Drama*, Drama*)                                                                                         1       0 100.00%         1       0 100.00%
+Inventory::sortClassic(Classic*, Classic*)                                                                                   1       0 100.00%         3       0 100.00%
+Inventory::sortShelves()                                                                                                     1       0 100.00%         5       0 100.00%
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                                                       97      12  87.63%       154      43  72.08%
+
+File '/home/NETID/alanlai/AlexMovies/main.cpp':
+Name                                                                                                                   Regions    Miss   Cover     Lines    Miss   Cover
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+main                                                                                                                         1       0 100.00%         6       0 100.00%
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                                                        1       0 100.00%         6       0 100.00%
+
+File '/home/NETID/alanlai/AlexMovies/Store.cpp':
+Name                                                                                                                   Regions    Miss   Cover     Lines    Miss   Cover
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Store::Store()                                                                                                               1       0 100.00%         1       0 100.00%
+Store::fillInventory(std::string const&)                                                                                    25       1  96.00%        49       2  95.92%
+Store::fillStoreWithCustomers(std::string const&)                                                                           12       2  83.33%        23       4  82.61%
+Store::processTransactions(std::string const&)                                                                             111      26  76.58%       263      66  74.90%
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                                                      149      29  80.54%       336      72  78.57%
+
+File '/home/NETID/alanlai/AlexMovies/store_test.cpp':
+Name                                                                                                                   Regions    Miss   Cover     Lines    Miss   Cover
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+testAllMovies()                                                                                                              1       0 100.00%        39       0 100.00%
+testHashTable()                                                                                                              1       0 100.00%        24       0 100.00%
+testCustomers()                                                                                                              1       0 100.00%        12       0 100.00%
+testStoreFinal()                                                                                                             1       0 100.00%        10       0 100.00%
+pisanTest()                                                                                                                  3       0 100.00%        19       0 100.00%
+testAll()                                                                                                                    1       0 100.00%         7       0 100.00%
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                                                        8       0 100.00%       111       0 100.00%
+
+File '/home/NETID/alanlai/AlexMovies/Transaction.cpp':
+Name                                                                                                                   Regions    Miss   Cover     Lines    Miss   Cover
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Transaction::Transaction(char, std::string, std::string, std::string, char)                                                 16       2  87.50%        23       5  78.26%
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOTAL                                                                                                                       16       2  87.50%        23       5  78.26%
+=====================================================
+The lines below were never executed
+=====================================================
+   43|      0|      return false;
+   44|      0|    }
+   67|      0|    if (this->getMajorActorLastName() != that->getMajorActorLastName()) {
+   68|      0|      return this->getMajorActorLastName() < that->getMajorActorLastName();
+   69|      0|    }
+   70|      0|    return false;
+   71|      0|  }
+   80|      0|    if (this->getMonth() != that->getMonth()) {
+   81|      0|      return this->getMonth() > that->getMonth();
+   82|      0|    }
+   83|      0|    if (this->getMajorActorFirstName() != that->getMajorActorFirstName()) {
+   84|      0|      return this->getMajorActorFirstName() > that->getMajorActorFirstName();
+   85|      0|    }
+   86|      0|    if (this->getMajorActorLastName() != that->getMajorActorLastName()) {
+   87|      0|      return this->getMajorActorLastName() > that->getMajorActorLastName();
+   88|      0|    }
+   89|      0|    return false;
+   90|      0|  }
+   43|      0|    // If somehow it still doesn't pass, just return false, they're probably the
+   44|      0|    // same.
+   45|      0|    return false;
+   46|      0|  }
+   53|      0|    // Then we'll instead sort by year.
+   54|      0|    if (this->getYear() != other->getYear()) {
+   55|      0|      return this->getYear() > other->getYear();
+   56|      0|    }
+   57|      0|    // If somehow it still doesn't pass, just return false, they're probably the
+   58|      0|    // same.
+   59|      0|    return false;
+   60|      0|  }
+   43|      0|    // If somehow it still doesn't pass, just return false, they're probably the
+   44|      0|    // same.
+   45|      0|    return false;
+   46|      0|  }
+   53|      0|    // Then sort by title
+   54|      0|    if (this->getTitle() != other->getTitle()) {
+   55|      0|      return this->getTitle() > other->getTitle();
+   56|      0|    }
+   57|      0|    // If somehow it still doesn't pass, just return false, they're probably the
+   58|      0|    // same.
+   59|      0|    return false;
+   60|      0|  }
+   36|      0|             // just replace the old value with the new one.
+   37|      0|      values[index] = value;
+   38|      0|    }
+  |   36|      0|             // just replace the old value with the new one.
+  |   37|      0|      values[index] = value;
+  |   38|      0|    }
+  |   36|      0|             // just replace the old value with the new one.
+  |   37|      0|      values[index] = value;
+  |   38|      0|    }
+   44|      0|      return false;
+   45|      0|    }
+   54|      0|      return;
+   55|      0|    }
+   15|      0|      movie->setStock(
+   16|      0|          f->getStock() +
+   17|      0|          movie->getStock()); // If we add the same movie twice, just increase
+   18|      0|                              // its stock instead of adding a new movie.
+   19|      0|      return;
+   20|      0|    }
+   30|      0|      movie->setStock(
+   31|      0|          d->getStock() +
+   32|      0|          movie->getStock()); // If we add the same movie twice, just increase
+   33|      0|                              // its stock instead of adding a new movie.
+   34|      0|      return;
+   35|      0|    }
+   49|      0|      movie->setStock(
+   50|      0|          c->getStock() +
+   51|      0|          movie->getStock()); // If we add the same movie twice, just increase
+   52|      0|                              // its stock instead of adding a new movie.
+   53|      0|      return;
+   54|      0|    }
+   63|      0|      cerr << "Out of stock, can't borrow " << comedies[index]->getTitle()
+   64|      0|           << endl;
+   65|      0|      return false;
+   66|      0|    }
+   74|      0|      cerr << "Out of stock, can't borrow " << dramas[index]->getTitle()
+   75|      0|           << endl;
+   76|      0|      return false;
+   77|      0|    }
+   93|      0|  cerr << "Invalid Type: " << type << endl;
+   94|      0|  return false;
+   95|      0|}
+  103|      0|    int stock = dramas[index]->getStock();
+  104|      0|    dramas[index]->setStock(stock + 1);
+  105|      0|    dramas[index]->setBorrowed(dramas[index]->getBorrowed() - 1);
+  111|      0|    cerr << "Invalid Type: " << type << endl;
+  112|      0|  }
+  154|      0|    cerr << "Index exceeds Classic Movie shelf size: " << index << endl;
+  155|      0|    return nullptr;
+  156|      0|  }
+  162|      0|    cerr << "Index exceeds Comedy Movie shelf size: " << index << endl;
+  163|      0|    return nullptr;
+  164|      0|  }
+  170|      0|    cerr << "Index exceeds Drama Movie shelf size: " << index << endl;
+  171|      0|    return nullptr;
+  172|      0|  }
+   33|      0|  void setDirector(const string &director) { this->director = director; }
+   35|      0|  void setTitle(const string &title) { this->title = title; }
+   37|      0|  void setYear(int year) { this->year = year; }
+   16|      0|    cerr << "file not found";
+   17|      0|  }
+   67|      0|    cerr << "file not found";
+   68|      0|  }
+   80|      0|      cerr << "Invalid customer ID: " << customerID << endl;
+   81|      0|    }
+   90|      0|    cerr << "File not found" << endl;
+   91|      0|  }
+  142|      0|              cerr << "Customer not found : " << customerID << endl;
+  143|      0|            }
+  176|      0|              cerr << "Customer not found : " << customerID << endl;
+  177|      0|            }
+  187|      0|            cerr << "Classic Movie not found: " << month << " " << year << " "
+  188|      0|                 << majorActorFirstName << " " << majorActorLastName << endl;
+  243|      0|            cerr << "Comedy Movie not found: " << title << " " << year << endl;
+  258|      0|                cerr << customers.get(customerID)->getFirstName() << " "
+  259|      0|                     << customers.get(customerID)->getLastName()
+  260|      0|                     << " tried to return a comedy movie they never borrowed: "
+  261|      0|                     << c->getTitle() << "by " << c->getDirector() << endl;
+  262|      0|              }
+  264|      0|              cerr << "Customer not found : " << customerID << endl;
+  265|      0|            }
+  268|      0|          string director, title, currToken;
+  269|      0|          vector<string> tokens;
+  270|      0|          while (getline(parse, currToken, ',')) {
+  271|      0|            if (currToken[0] == ' ') {
+  272|      0|              currToken.erase(0, 1); // Space trimmer.
+  273|      0|            }
+  274|      0|            tokens.push_back(currToken);
+  275|      0|          }
+  276|      0|          director = tokens[0];
+  277|      0|          title = tokens[1];
+  278|      0|          int index = movies->indexOfDrama(director, title);
+  279|      0|          if (index == -1) {
+  280|      0|            cerr << "Drama Movie not found: " << director << " " << title
+  281|      0|                 << endl;
+  282|      0|          } else {
+  283|      0|            auto *d = movies->getDramaMovie(index);
+  284|      0|            if (customers.indexOf(customerID) != -1) {
+  285|      0|              if (customers.get(customerID)->isCurrentlyBorrowing('D', index)) {
+  286|      0|                movies->returnMovie(genre, index);
+  287|      0|                Transaction *t = new Transaction(
+  288|      0|                    'D', d->getTitle(), d->getDirector(),
+  289|      0|                    customers.get(customerID)->getFirstName() + " " +
+  290|      0|                        customers.get(customerID)->getLastName(),
+  291|      0|                    'R');
+  292|      0|                customers.get(customerID)->returnMovie('D', index);
+  293|      0|                customers.get(customerID)
+  294|      0|                    ->addToHistory(t); // Add transaction to customer history.
+  295|      0|              } else {
+  296|      0|                cerr << customers.get(customerID)->getFirstName() << " "
+  297|      0|                     << customers.get(customerID)->getLastName()
+  298|      0|                     << " tried to return a drama movie they never borrowed: "
+  299|      0|                     << d->getTitle() << "by " << d->getDirector() << endl;
+  300|      0|              }
+  301|      0|            } else {
+  302|      0|              cerr << "Customer not found : " << customerID << endl;
+  303|      0|            }
+  304|      0|          }
+  313|      0|            cerr << "Classic Movie not found: " << month << " " << year << " "
+  314|      0|                 << majorActorFirstName << " " << majorActorLastName << endl;
+  329|      0|                cerr << customers.get(customerID)->getFirstName() << " "
+  330|      0|                     << customers.get(customerID)->getLastName()
+  331|      0|                     << " tried to return a classic movie they never borrowed: "
+  332|      0|                     << c->getTitle() << "by " << c->getDirector() << endl;
+  333|      0|              }
+  335|      0|              cerr << "Customer not found : " << customerID << endl;
+  336|      0|            }
+  339|      0|          cerr << "Invalid movie type " << genre << endl;
+  340|      0|        }
+  342|      0|        cerr << "Invalid media type: " << media << endl;
+  343|      0|      }
+   19|      0|    cout << "Invalid genre for transaction: " << genre << endl;
+   20|      0|  }
+   27|      0|    cout << "Invalid transaction type for transaction: " << transactionType
+   28|      0|         << endl;
+   29|      0|  }
+Mon Mar 15 15:34:09 PDT 2021
+=====================================================
+To create an output.txt file with all the output from this script
+Run the below command
+      ./create-output.sh > output.txt 2>&1 
+=====================================================
