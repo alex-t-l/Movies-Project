@@ -1,5 +1,3 @@
 # Movies-Project
 
-This movies project represents a rental movie store that wants to automate their inventory tracking system. There are three genres, Comedy, Drama, and Classic. 
-The program keeps track of borrowed and returned items for each customer, also the inventory and history of the customers. The inventory is initialized from a text file, and the customers
-are initialized from a. customer file, then the commands from the commands file.
+This movies project represents a rental movie store that wants to automate their inventory tracking system.  The program keeps track of borrowed and returned items for each customer, also the inventory and history of the customers. The inventory, customer, and transactions are initialized from a text file There Is a store object that has a customer database (HashMap with customer id and customer object), and inventory object for the movie inventory database. Every customer object has a vector of historic transactions, and items they are currently borrowing stored in a vector. There are three genres, Comedy, Drama, and Classic, which is stored in an inventory object which has a vector for each shelf, the inventory object can sort the shelves by different sorting type.
